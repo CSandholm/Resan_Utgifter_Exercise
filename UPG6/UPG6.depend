@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598267849 source:c:\users\tardis\documents\school\datorer och programmering c++\inlämningar\ou6\upg6\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<iostream>
+	<fstream>
+
